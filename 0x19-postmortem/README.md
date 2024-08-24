@@ -1,6 +1,6 @@
 0x19-postmortem
 
-<img src="[https://images.app.goo.gl/nPT9Mto1foBwQeLr9](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fdebugging&psig=AOvVaw0hXpb1bF17Lihw1LvjIcYM&ust=1724473835360000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiBoJWliogDFQAAAAAdAAAAABAE)">
+![download](https://github.com/user-attachments/assets/8e9cb35e-4bd6-4a10-b2f1-1e7c1dba81c4)
 
 # Issue Summary
 Duration of the Outage: The outage started at 11:45 AM and was resolved by 02:45 PM West African Time.
