@@ -3,7 +3,7 @@
 <img src="[https://images.app.goo.gl/nPT9Mto1foBwQeLr9](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fdebugging&psig=AOvVaw0hXpb1bF17Lihw1LvjIcYM&ust=1724473835360000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiBoJWliogDFQAAAAAdAAAAABAE)">
 
 # Issue Summary
-Duration of the Outage: The outage started at 11:45 AM and was resolved by 12:45 PM West African Time.
+Duration of the Outage: The outage started at 11:45 AM and was resolved by 02:45 PM West African Time.
 
 # Impact:
 The site was not listening on port 80, causing all users to be unable to access the website.
